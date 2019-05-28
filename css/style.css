@@ -107,13 +107,13 @@ header a:hover{
 
 
         /*List 2 (Same page links*/)
-#same_page{
+#list2{
   width: 100%;
   background-color: #fff;
   position: relative;
   bottom: 3.2rem;
 }
-#same_page li{
+#list2 li{
   display: inline-block;
   margin-bottom: 2rem;
   margin: 0.5rem;
@@ -121,12 +121,12 @@ header a:hover{
   color: #fff;
   font-size: 1.5rem;
 }
-#same_page li a{
+#list2 li a{
   color: #000;
   text-decoration: none;
   font-size: 1.5rem;
 }
-#same_page li a:hover{
+#list2 li a:hover{
   text-decoration: underline;
 }
 .links2{

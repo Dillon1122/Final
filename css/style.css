@@ -232,16 +232,17 @@ header a:hover{
 .text {
   white-space: normal;
   color: #000;
-  font-size: 1.25rem;
+  font-size: 1.4rem;
+  line-height: 2rem;
   position: absolute;
   top: 50%;
   left: 50%;
   max-width: 85%;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-80%, -70%);
+  transform: translate(-50%, -70%);
+  -ms-transform: translate(-50%, -70%);
   display: block;
-  overflow: hidden;
+  overflow: visible;
 }
 
 

@@ -104,7 +104,7 @@ hr{
   width: 85%;
   line-height: 2rem;
   margin: 1rem auto;
-  font-size: 1.4rem;
+  font-size: 1.75rem;
   margin-top: 2rem;
 }
 /* Create four equal columns that sits next to each other */
@@ -164,7 +164,7 @@ footer{
 }
 .footer_section p{
   line-height: 2rem;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 .last_section{
   margin-bottom: 0;

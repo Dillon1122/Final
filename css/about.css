@@ -80,7 +80,7 @@ header a:hover{
   display: inline-block;
 }
 .main_img_content p{
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 
 
@@ -134,7 +134,7 @@ header a:hover{
   margin: 0 auto;
   margin-bottom: 1.5rem;
   margin-top: 2rem;
-  font-size: 1.4rem;
+  font-size: 1.75rem;
   line-height: 2.5rem;
 }
 .whoweare-container img{
@@ -170,7 +170,7 @@ hr{
   font-size: 4rem;
 }
 .whatwedo-container p{
-  font-size: 1.4rem;
+  font-size: 1.75rem;
   width: 90%;
   margin: 0 auto;
   padding-bottom: 2.5rem;
@@ -221,7 +221,7 @@ footer{
 }
 .footer_section p{
   line-height: 2rem;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 .last_section{
   margin-bottom: 0;

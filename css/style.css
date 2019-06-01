@@ -404,3 +404,98 @@ footer{
   background: #dd4b39;
   color: white;
 }
+
+
+
+@media (min-width: 900px){
+  .location-container p{
+    font-size: 1.1rem;
+  }
+}
+
+
+@media (min-width: 61.875rem){ /*990px*/
+  .logo img{
+    float: left;
+    margin: 1rem 0 .75rem 2rem;
+    height: 5rem;
+    width: 10rem;
+    border: none;
+  }
+  header{
+      width: 100%;
+      color: black;
+  }
+  header ul{
+    float: right;
+    position: relative;
+    top: .5rem;
+    font-size: 2rem;
+  }
+  header li{
+    margin: 0;
+  }
+
+  .slideshow-container{
+    height: 35rem;
+  }
+  .container{
+    width: 40%;
+    display: inline-block;
+    margin: 2.5%;
+    font-size: 1rem;
+    height: 18rem;
+  }
+  .list2{
+    border: none;
+    bottom: 1rem;
+  }
+  .row1{
+    width: 100%;
+  }
+  .row2{
+    width: 100%;
+  }
+  .text{
+    top: 40%;
+    font-size: 1rem;
+    width: 90%;
+  }
+  .column{
+    height: 8rem;
+  }
+
+  .foot_links{
+    padding: 2rem;
+  }
+  .address{
+    width: 50%;
+  }
+
+  .row1{
+      width: 85%;
+      margin: 0 auto;
+  }
+  .row2{
+      width: 85%;
+      margin: 0 auto;
+  }
+  .location-container p{
+    width: 75%;
+    line-height: 2rem;
+    font-size: 1.1rem;
+  }
+  .Equipment img{
+    width: 27%;
+    margin: 2%;
+    padding: 0;
+    display: inline;
+    height: 13rem;
+  }
+  footer{
+    text-align: left;
+  }
+  .footer_section{
+    margin-left: 4rem;
+  }
+}

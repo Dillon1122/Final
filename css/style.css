@@ -140,7 +140,7 @@ header a:hover{
 
           /*Prodcut Images*/
 /*image overlay styling*/
-.container{
+/*.container{
   position: relative;
   width: 85%;
   margin: 3% auto;
@@ -194,9 +194,9 @@ header a:hover{
 }
 .text a:hover a:active{
   text-decoration: underline;
-}
+}*/
 
-/*.container {
+.container {
   position: relative;
   width: 85%;
   margin: 4rem auto;
@@ -230,7 +230,7 @@ header a:hover{
 }
 
 .text {
-  white-space: nowrap;
+  white-space: normal;
   color: #000;
   font-size: 1.25rem;
   position: absolute;
@@ -243,7 +243,6 @@ header a:hover{
   display: block;
   overflow: hidden;
 }
-*/
 
 
           /*Location*/

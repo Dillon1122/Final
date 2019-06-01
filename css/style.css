@@ -419,7 +419,7 @@ footer{
     float: left;
     margin: 1rem 0 .75rem 2rem;
     height: 5rem;
-    width: 10rem;
+    width: 16rem;
     border: none;
   }
   header{
@@ -431,9 +431,14 @@ footer{
     position: relative;
     top: .5rem;
     font-size: 2rem;
+    width: 50%;
   }
   header li{
     margin: 0;
+  }
+  header a{
+    font-size: 1rem;
+    display: inline;
   }
 
   .slideshow-container{
@@ -445,6 +450,8 @@ footer{
     margin: 2.5%;
     font-size: 1rem;
     height: 18rem;
+  }
+  .overlay{
   }
   .list2{
     border: none;

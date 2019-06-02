@@ -214,3 +214,29 @@ footer{
   padding: 2rem;
   border-radius: .5rem;
 }
+
+
+@media (min-width: 61.875rem){ /*990px*/
+  header{
+      width: 100%;
+      color: black;
+  }
+  .logo img{
+    float: left;
+    margin: 1rem 0 .75rem 2rem;
+    height: 7rem;
+    width: 16rem;
+    border: none;
+  }
+  header ul{
+    float: right;
+    width: 50%;
+    position: relative;
+    top: 1.75rem;
+  }
+  header a{
+    padding: 1rem;
+    margin: 0rem;
+    font-size: 1.37rem;
+  }
+}

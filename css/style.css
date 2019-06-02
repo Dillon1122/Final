@@ -442,4 +442,59 @@ footer{
   .slideshow-container{
     height: 35rem;
   }
+
+  /*Image Overlays 990px*/
+  .container{
+    width: 40%;
+    display: inline-block;
+    margin: 2.5%;
+    font-size: 1rem;
+    height: 18rem;
+  }
+  .list2{
+    border: none;
+    bottom: 1rem;
+  }
+  .row1{
+    width: 100%;
+  }
+  .row2{
+    width: 100%;
+  }
+  .text{
+    top: 40%;
+    font-size: 1rem;
+    width: 90%;
+  }
+  .overlay{
+    width: 100%;
+  }
+  .column{
+    height: 8rem;
+  }
+
+  .location-container p{
+    width: 90%;
+    line-height: 2.5rem;
+    font-size: 1.75rem;
+  }
+  .Equipment img{
+    width: 27%;
+    margin: 2%;
+    padding: 0;
+    display: inline;
+    height: 13rem;
+  }
+
+  .Equipment p{
+    font-size: 1.75rem;
+    line-height: 2.5rem;
+    width: 90%;
+  }
+  footer{
+    text-align: left;
+  }
+  .footer_section{
+    margin-left: 4rem;
+  }
 }

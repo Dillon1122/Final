@@ -239,4 +239,32 @@ footer{
     margin: 0rem;
     font-size: 1.37rem;
   }
+  .row{
+    width: 100%;
+  }
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+  .column img{
+    border: 2px solid #fff;
+    border-radius: 1rem;
+  }
+  .event1 h1{
+    font-size: 3rem;
+  }
+  .events p {
+    font-size: 1.25rem;
+  }
+  .big_img img{
+    border: none;
+    border-top: 3px solid #fff;
+  }
+  footer{
+    text-align: left;
+  }
+  .footer_section{
+    margin-left: 4rem;
+  }
 }

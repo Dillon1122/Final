@@ -432,16 +432,13 @@ footer{
     margin: 2%;
     padding: 0;
     display: inline;
-    height: 13rem;
+    height: 15rem;
   }
 
   .Equipment p{
     font-size: 1.75rem;
     line-height: 2.5rem;
     width: 90%;
-  }
-  .Equipment img{
-    height: 10rem;
   }
   footer{
     text-align: left;

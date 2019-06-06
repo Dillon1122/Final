@@ -258,8 +258,8 @@ footer{
 
 @media (min-width: 61.875rem){ /*990px*/
   header{
-      width: 100%;
-      color: black;
+    width: 100%;
+    color: black;
   }
   .logo img{
     float: left;
@@ -276,7 +276,31 @@ footer{
   }
   header a{
     padding: 1rem;
-    margin: 0rem;
+    margin: 0;
     font-size: 1.37rem;
+  }
+  .row{
+    width: 100%;
+  }
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+  .event1 h1{
+    font-size: 3rem;
+  }
+  .events p {
+    font-size: 1.25rem;
+  }
+  .big_img img{
+    border: none;
+    border-top: 3px solid #fff;
+  }
+  footer{
+    text-align: left;
+  }
+  .footer_section{
+    margin-left: 4rem;
   }
 }

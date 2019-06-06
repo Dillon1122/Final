@@ -282,6 +282,12 @@ footer{
   .row{
     width: 100%;
   }
+  .images img{
+    width: 40%;
+    display: inline;
+    margin: 2.5%;
+    height: 21rem;
+  }
   .column {
     -ms-flex: 50%;
     flex: 50%;

@@ -49,7 +49,7 @@ header a:hover{
 }
 
 hr{
-  width: 80%;
+  width: 20%;
 }
 
 
@@ -126,9 +126,10 @@ hr{
   margin: 0 auto;
   margin-top: 8px;
   vertical-align: middle;
+  border: 2px solid #fff;
 }
 hr{
-  width: 40%;
+  width: 20%;
 }
 
 
@@ -253,6 +254,10 @@ footer{
   }
   .event1 h1{
     font-size: 3rem;
+    color: #737171;
+  }
+  .events h1{
+    color: #737171;
   }
   .events p {
     font-size: 1.25rem;

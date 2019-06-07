@@ -282,7 +282,7 @@ footer{
   .row{
     width: 100%;
   }
-  .images img{
+  /*.images img{
     width: 40%;
     display: inline;
     margin: 2.5%;
@@ -308,5 +308,5 @@ footer{
   }
   .footer_section{
     margin-left: 4rem;
-  }
+  }*/
 }

@@ -269,6 +269,20 @@ footer{
     border: none;
   }
   header ul{
+  }
+}
+  /*header{
+    width: 100%;
+    color: black;
+  }
+  .logo img{
+    float: left;
+    margin: 1rem 0 .75rem 2rem;
+    height: 7rem;
+    width: 16rem;
+    border: none;
+  }
+  header ul{
     float: right;
     width: 50%;
     position: relative;
@@ -282,7 +296,7 @@ footer{
   .row{
     width: 100%;
   }
-  /*.images img{
+  .images img{
     width: 40%;
     display: inline;
     margin: 2.5%;
@@ -308,5 +322,5 @@ footer{
   }
   .footer_section{
     margin-left: 4rem;
-  }*/
-}
+  }
+}*/

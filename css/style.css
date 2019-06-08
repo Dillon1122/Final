@@ -447,3 +447,31 @@ footer{
     margin-left: 4rem;
   }
 }
+
+@media (min-width: 75rem){/*1200px*/
+  .logo img{
+    height: 8rem;
+  }
+  .slideshow-container{
+    height: 43rem;
+  }
+  .Equipment p{
+    font-size: 1.25rem;
+  }
+  .Equipment img{
+    height: 17rem;
+  }
+  header ul{
+    top: 2rem;
+  }
+  header li{
+    margin: 1rem 0 1rem 2.25rem;
+  }
+  .text{
+    font-size: 1.15rem;
+    width: 90%;
+  }
+  .location-container h1{
+    font-size: 5rem;
+  }
+}

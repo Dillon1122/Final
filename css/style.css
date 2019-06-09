@@ -234,6 +234,7 @@ header a:hover{
 .special-paragraph p{
   margin-top: 0;
   padding-top: 0;
+  font-size: 1.75rem;
 }
 .subheading{
   margin-bottom: 2rem;
@@ -433,6 +434,7 @@ footer{
     padding: 0;
     display: inline;
     height: 15rem;
+    border: 2px solid #fff;
   }
 
   .Equipment p{
@@ -456,7 +458,7 @@ footer{
     height: 43rem;
   }
   .Equipment p{
-    font-size: 1.25rem;
+    font-size: 1.75rem;
   }
   .Equipment img{
     height: 17rem;

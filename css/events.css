@@ -273,3 +273,18 @@ footer{
     margin-left: 4rem;
   }
 }
+
+@media (min-width: 75rem){/*1200px*/
+  .logo img{
+    height: 8rem;
+  }
+  header ul{
+    top: 2rem;
+  }
+  header li{
+    margin: 1rem 0 1rem 2.25rem;
+  }
+  .same_page_links li{
+    margin: 4rem;
+  }
+}

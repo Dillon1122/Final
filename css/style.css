@@ -276,9 +276,10 @@ hr{
 }
 
 .Equipment img{
-  width: 75%;
+  width: 85%;
   display: block;
   margin: 1.5rem auto;
+  border: 2px solid #fff;
 }
 .second_paragraph{
   padding-top: 2.5rem;

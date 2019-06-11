@@ -284,7 +284,51 @@ footer{
   header li{
     margin: 1rem 0 1rem 2.25rem;
   }
+  .big_img img{
+    height: 40rem;
+  }
   .same_page_links li{
     margin: 4rem;
   }
+}
+
+@media (min-width: 89.375rem){/*1430px*/
+  .logo img{
+    width: 20%;
+    height: 9rem;
+  }
+  header a{
+    font-size: 1.7rem;
+  }
+  .big_img img{
+    height: 50rem;
+  }
+  .events{
+    width: 100%;
+  }
+  .events h1{
+    font-size: 6rem;
+  }
+  .events p{
+    font-size: 2rem;
+    line-height: 3.5rem;
+  }
+  .column{
+      -ms-flex: 25%;
+      flex: 25%;
+      max-width: 25%;
+  }
+}
+
+@media (min-width: 101.1875rem){/*1619px*/
+    .logo img{
+      width: 25%;
+      height: 10rem;
+    }
+    header ul{
+      top: 2.3rem;
+    }
+    header a{
+      font-size: 2rem;
+    }
 }

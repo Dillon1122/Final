@@ -12,7 +12,12 @@ html{
   font-family: "Times New Roman", Times, serif;
 }
 
-/*Navigation Bar*/
+/*All h1 are 4rem under 990px
+All text 1.2rem under 990px
+All text limit to 93% under 990px
+All links 1.5rem under 990px*/
+
+        /*Navigation Bar*/
 .logo img{
   width: 35%;
   height: 10rem;
@@ -24,8 +29,6 @@ header{
   display: block;
   background-color: #000;
   color: #fff;
-  position: relative;
-  z-index: 5;
 }
 header li{
   display: inline-block;
@@ -55,13 +58,23 @@ hr{
 
 /*Events Image*/
 .big_img{
-
+  background: url("C:/Users/vtw14/OneDrive/Desktop/Insync/final/resources/big_img.jpg");
+  background-position: center;
+  background-size: cover;
 }
-.big_img img{
+.big_img_content{
+  padding: 15rem;
+  border: 3px solid #fff;
+}
+.big_img h1{
+  font-size: 8rem;
+  padding: 3rem;
   width: 100%;
-  height: 35rem;
-  border-top: 3px solid #fff;
+  margin: 0 auto;
+  border: 8px solid #fff;
 }
+
+
 
 
 

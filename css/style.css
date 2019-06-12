@@ -363,7 +363,7 @@ footer{
 
 
 @media (min-width: 61.875rem){ /*990px*/
-  header{
+  /*header{
       width: 100%;
       color: black;
   }
@@ -384,6 +384,29 @@ footer{
     padding: 1rem;
     margin: 0rem;
     font-size: 1.37rem;
+  }*/
+  header{
+    width: 100%;
+    background-color: black;
+  }
+  .logo img{
+    float: left;
+    margin: 1rem 0 .75rem 2rem;
+    height: 7rem;
+    width: 16rem;
+    border: none;
+    display: inline;
+  }
+  header ul{
+    display: inline;
+    width: 50%;
+    top:1.75rem;
+    margin-left: 15%;
+  }
+  header a{
+    font-size: 1.37rem;
+    float: right;
+    padding: 1rem
   }
 
   /*Slideshow 990px*/
@@ -456,7 +479,7 @@ footer{
 
 @media (min-width: 75rem){/*1200px*/
   .logo img{
-    height: 8rem;
+    height: 6rem;
   }
   .slideshow-container{
     height: 43rem;
@@ -469,9 +492,10 @@ footer{
   }
   header ul{
     top: 2rem;
+    margin-left: 30%;
   }
   header li{
-    margin: 1rem 0 1rem 2.25rem;
+    font-size: 1.5rem;
   }
   .text{
     font-size: 1.15rem;
@@ -484,8 +508,12 @@ footer{
 
 @media (min-width: 89.375rem){/*1430px*/
   .logo img{
-    width: 20%;
-    height: 9rem;
+    margin-top: 1.5rem;
+    height: 7rem;
+  }
+  header ul{
+    position: relative;
+    top: .35rem;
   }
   header a{
     font-size: 1.7rem;

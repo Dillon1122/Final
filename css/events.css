@@ -61,6 +61,7 @@ hr{
   background: url("C:/Users/vtw14/OneDrive/Desktop/Insync/final/resources/big_img.jpg");
   background-position: center;
   background-size: cover;
+  position: relative;
 }
 .big_img_content{
   padding: 15rem;
@@ -233,7 +234,7 @@ footer{
 @media (min-width: 61.875rem){ /*990px*/
   header{
       width: 100%;
-      color: black;
+      background-color: black;
   }
   .logo img{
     float: left;

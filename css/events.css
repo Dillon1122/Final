@@ -254,6 +254,10 @@ footer{
     margin: 0rem;
     font-size: 1.37rem;
   }
+  .big_img{
+    width: 100%;
+    overflow: hidden;
+  }
   .row{
     width: 100%;
   }
@@ -309,10 +313,14 @@ footer{
 @media (min-width: 89.375rem){/*1430px*/
   .logo img{
     width: 20%;
-    height: 9rem;
+    height: 7rem;
   }
   header a{
-    font-size: 1.7rem;
+    font-size: 2rem;
+  }
+  header ul{
+    position: relative;
+    top: .35rem;
   }
   .big_img img{
     height: 50rem;
@@ -332,17 +340,4 @@ footer{
       flex: 25%;
       max-width: 25%;
   }
-}
-
-@media (min-width: 101.1875rem){/*1619px*/
-    .logo img{
-      width: 25%;
-      height: 10rem;
-    }
-    header ul{
-      top: 2.3rem;
-    }
-    header a{
-      font-size: 2rem;
-    }
 }

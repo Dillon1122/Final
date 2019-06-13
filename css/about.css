@@ -346,4 +346,10 @@ footer{
     height: 7.5rem;
     width: 19%;
   }
+  header ul{
+    margin-left: 35%;
+  }
+  header a{
+    font-size: 2rem;
+  }
 }

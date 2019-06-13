@@ -534,11 +534,11 @@ footer{
 
 @media (min-width: 101.1875rem){/*1619px*/
   .logo img{
-    width: 25%;
-    height: 10rem;
+    width: 19%;
+    height: 7.5rem;
   }
   header ul{
-    top: 2.3rem;
+    margin-left: 35%;
   }
   header a{
     font-size: 2rem;
